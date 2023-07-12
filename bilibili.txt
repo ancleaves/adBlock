@@ -1,0 +1,15 @@
+[Adblock Plus 2.0]
+live.bilibili.com##.avatar-btn.pointer.a-scale-in-ease.model-22
+live.bilibili.com##.avatar-btn.pointer.a-scale-in-ease.model-33
+live.bilibili.com##.play-together-tip
+live.bilibili.com##.shop-popover
+bilibili.com##.adblock-tips
+bilibili.com##.floor-single-card
+live.bilibili.com##.flip-view-image.dp-i-block.v-top.w-100.h-100.ts-dot-4
+live.bilibili.com##.p-relative.dp-i-block.v-top.w-100.h-100
+live.bilibili.com##.flip-view-image-ctnr.img-bright-filter.ts-dot-4
+live.bilibili.com##.flip-view.p-relative.over-hidden.w-100
+live.bilibili.com##.pk-process-bar
+live.bilibili.com##.awesome-pk-box
+live.bilibili.com##.haruna-canvas
+||api.live.bilibili.com/xlive/general-interface/v1/battle/getInfoById
