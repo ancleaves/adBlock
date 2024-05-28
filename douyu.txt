@@ -11,7 +11,7 @@ douyu.com##.public-DropMenu.Game
 douyu.com##.FansAct202306Tips
 douyu.com##.ActAnnualAct202306Answer
 douyu.com##.FansMedal.is-made
-douyu.com##.FansMedal.level-*
+! douyu.com##.FansMedal.level-*
 douyu.com##.AnchorInterToolsUser
 douyu.com###js-room-activity
 douyu.com##.FishShopTip
