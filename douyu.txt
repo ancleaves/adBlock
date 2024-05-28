@@ -62,7 +62,6 @@ douyu.com##.Treasure.is-finish
 ||webconf.douyucdn.cn/resource/common/activity/actsuperfans_w.json
 ||webconf.douyucdn.cn/resource/common/toast_broadcast_w.json
 ||webconf.douyucdn.cn/resource/common/gift_activity_w.json
-！ 2023年7月13日
 ||www.douyu.com/japi/interact/cdn/giftBanner/giftActConfig
 ||www.douyu.com/japi/carnival/c/userBox/boxExistV2
 ||www.douyu.com/japi/entrance/roomRes/nc/w/list
