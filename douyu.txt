@@ -13,7 +13,7 @@ douyu.com##.ActAnnualAct202306Answer
 douyu.com##.FansMedal.is-made
 douyu.com##.FansMedal.level-*
 douyu.com##.AnchorInterToolsUser
-douyu.com##div#js-room-activity
+douyu.com###js-room-activity
 douyu.com##.FishShopTip
 douyu.com##.Motor
 douyu.com##.FansMedalBox
