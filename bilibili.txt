@@ -13,3 +13,7 @@ live.bilibili.com##.pk-process-bar
 live.bilibili.com##.awesome-pk-box
 live.bilibili.com##.haruna-canvas
 ||api.live.bilibili.com/xlive/general-interface/v1/battle/getInfoById
+! 2024年5月28日
+||api.live.bilibili.com/xlive/web-interface/v1/moreLive/getMoreLiveRoomsInfo
+bilibili.com##.recommended-swipe
+bilibili.com##.animated-banner
