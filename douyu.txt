@@ -49,7 +49,6 @@ douyu.com##.Treasure.is-finish
 ||*.douyucdn.cn/*/nlogin
 ||butterfly.douyucdn.cn/api/page/loadPage
 ||www.douyu.com/wgapi/vod/front/hover/getDropMenuInfo
-！ 2023年7月13日
 ||webconf.douyucdn.cn/resource/common/gift/gift_template/20728.json
 ||webconf.douyucdn.cn/resource/common/gift/common_config_v2.json
 ||webconf.douyucdn.cn/resource/common/activity/superfans_fxtz_w.json
