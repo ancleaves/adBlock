@@ -72,3 +72,4 @@ douyu.com##.Treasure.is-finish
 ||webconf.douyucdn.cn/resource/common/inter_com_voice_act_w.json
 ||webconf.douyucdn.cn/resource/common/happy_game_w.json
 ! 2024年5月28日
+douyu.com##.layout-Player-rank
